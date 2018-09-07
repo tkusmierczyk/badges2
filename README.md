@@ -1,6 +1,6 @@
 Code used in the following paper:
 
-**T. Kusmierczyk, K. Nørvåg: [Determining Impact of Social Media Badges through Joint Clustering of Temporal Traces and User Features.](https://arxiv.org/abs/1710.01716) (to appear in AAAI-18)**
+**T. Kusmierczyk, K. Nørvåg: [On Validation and Predictability of Digital Badges' Influence on Individual Users.](https://arxiv.org/abs/1710.01716) (AAAI-18)**
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Furthermore, to run jupyter nootebooks we used **runipy (0.1.5)**.
 Data can be found in `data/` and `data/badges/` directories.
 Files need to be unzipped before using them.
 
-### Running scripts
+### Code execution    
 
 To reproduce our experiments use the following:
 * for synthetic experiments: `RUN.sh` in `src/synthetic/`
